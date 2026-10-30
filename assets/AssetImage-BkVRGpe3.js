@@ -1,0 +1,1 @@
+import{a as e}from"./motion-vendor-BYYyosh6.js";import{n as t}from"./assets-ChGFFnGU.js";var n=e();function r({asset:e,alt:r,className:i}){return(0,n.jsx)(`img`,{src:t[e],alt:r,className:i,draggable:!1,loading:`lazy`})}export{r as t};

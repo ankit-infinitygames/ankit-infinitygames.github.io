@@ -1,0 +1,77 @@
+[
+  {
+    "cardId": "good-life",
+    "text": "You had a good life.",
+    "src": "/assets/voices/onboarding/good-life.mp3"
+  },
+  {
+    "cardId": "lost-million",
+    "text": "But you've lost 1 Million Dollars.",
+    "src": "/assets/voices/onboarding/lost-million.mp3"
+  },
+  {
+    "cardId": "had-partner",
+    "text": "You had a partner.",
+    "src": "/assets/voices/onboarding/had-partner.mp3"
+  },
+  {
+    "cardId": "partner-hates-you",
+    "text": "Now they hate you.",
+    "src": "/assets/voices/onboarding/partner-hates-you.mp3"
+  },
+  {
+    "cardId": "have-kids",
+    "text": "You have kids.",
+    "src": "/assets/voices/onboarding/have-kids.mp3"
+  },
+  {
+    "cardId": "kids-hate-you",
+    "text": "But now they hate you.",
+    "src": "/assets/voices/onboarding/kids-hate-you.mp3"
+  },
+  {
+    "cardId": "had-friends",
+    "text": "You had friends.",
+    "src": "/assets/voices/onboarding/had-friends.mp3"
+  },
+  {
+    "cardId": "owe-friends",
+    "text": "But now you owe them money.",
+    "src": "/assets/voices/onboarding/owe-friends.mp3"
+  },
+  {
+    "cardId": "had-house",
+    "text": "You had a house.",
+    "src": "/assets/voices/onboarding/had-house.mp3"
+  },
+  {
+    "cardId": "lost-house",
+    "text": "You've lost it.",
+    "src": "/assets/voices/onboarding/lost-house.mp3"
+  },
+  {
+    "cardId": "had-car",
+    "text": "You had a fine car.",
+    "src": "/assets/voices/onboarding/had-car.mp3"
+  },
+  {
+    "cardId": "lost-car",
+    "text": "But you've also lost it.",
+    "src": "/assets/voices/onboarding/lost-car.mp3"
+  },
+  {
+    "cardId": "have-parents",
+    "text": "You have your parents.",
+    "src": "/assets/voices/onboarding/have-parents.mp3"
+  },
+  {
+    "cardId": "parents-disowned",
+    "text": "But they disowned you.",
+    "src": "/assets/voices/onboarding/parents-disowned.mp3"
+  },
+  {
+    "cardId": "ready-fix-life",
+    "text": "It's time to fix your life. Are you ready?",
+    "src": "/assets/voices/onboarding/ready-fix-life.mp3"
+  }
+]

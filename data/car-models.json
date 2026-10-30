@@ -1,0 +1,3006 @@
+{
+  "source": "Broke to Boss: Idle Tycoon status car catalog",
+  "count": 200,
+  "cars": [
+    {
+      "id": "car-ferrari-luce-106",
+      "brand": "Ferrari",
+      "model": "Luce",
+      "displayName": "Ferrari Luce",
+      "cost": 640000,
+      "reputationReward": 34,
+      "image": "/assets/status/car/car-ferrari-luce-106.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-01.webp",
+        "row": 0,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ferrari-f40-1",
+      "brand": "Ferrari",
+      "model": "F40",
+      "displayName": "Ferrari F40",
+      "cost": 160000,
+      "reputationReward": 24,
+      "image": "/assets/status/car/car-ferrari-f40-1.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-01.webp",
+        "row": 0,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-chevrolet-corvette-c8-94",
+      "brand": "Chevrolet",
+      "model": "Corvette C8",
+      "displayName": "Chevrolet Corvette C8",
+      "cost": 194000,
+      "reputationReward": 25,
+      "image": "/assets/status/car/car-chevrolet-corvette-c8-94.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-01.webp",
+        "row": 0,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-audi-r8-91",
+      "brand": "Audi",
+      "model": "R8",
+      "displayName": "Audi R8",
+      "cost": 229000,
+      "reputationReward": 25,
+      "image": "/assets/status/car/car-audi-r8-91.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-01.webp",
+        "row": 0,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-nissan-gt-r-92",
+      "brand": "Nissan",
+      "model": "GT-R",
+      "displayName": "Nissan GT-R",
+      "cost": 263000,
+      "reputationReward": 26,
+      "image": "/assets/status/car/car-nissan-gt-r-92.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-01.webp",
+        "row": 0,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-toyota-supra-57",
+      "brand": "Toyota",
+      "model": "Supra",
+      "displayName": "Toyota Supra",
+      "cost": 297000,
+      "reputationReward": 26,
+      "image": "/assets/status/car/car-toyota-supra-57.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-01.webp",
+        "row": 1,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-acura-nsx-35",
+      "brand": "Acura",
+      "model": "NSX",
+      "displayName": "Acura NSX",
+      "cost": 332000,
+      "reputationReward": 27,
+      "image": "/assets/status/car/car-acura-nsx-35.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-01.webp",
+        "row": 1,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-porsche-911-gt3-83",
+      "brand": "Porsche",
+      "model": "911 GT3",
+      "displayName": "Porsche 911 GT3",
+      "cost": 366000,
+      "reputationReward": 28,
+      "image": "/assets/status/car/car-porsche-911-gt3-83.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-01.webp",
+        "row": 1,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-porsche-911-turbo-84",
+      "brand": "Porsche",
+      "model": "911 Turbo",
+      "displayName": "Porsche 911 Turbo",
+      "cost": 400000,
+      "reputationReward": 28,
+      "image": "/assets/status/car/car-porsche-911-turbo-84.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-01.webp",
+        "row": 1,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-porsche-911-turbo-s-992-140",
+      "brand": "Porsche",
+      "model": "911 Turbo S (992)",
+      "displayName": "Porsche 911 Turbo S (992)",
+      "cost": 435000,
+      "reputationReward": 29,
+      "image": "/assets/status/car/car-porsche-911-turbo-s-992-140.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-01.webp",
+        "row": 1,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-bmw-i8-90",
+      "brand": "BMW",
+      "model": "i8",
+      "displayName": "BMW i8",
+      "cost": 469000,
+      "reputationReward": 29,
+      "image": "/assets/status/car/car-bmw-i8-90.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-01.webp",
+        "row": 2,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-mercedes-amg-gt-89",
+      "brand": "Mercedes-AMG",
+      "model": "GT",
+      "displayName": "Mercedes-AMG GT",
+      "cost": 503000,
+      "reputationReward": 30,
+      "image": "/assets/status/car/car-mercedes-amg-gt-89.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-01.webp",
+        "row": 2,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-alpine-a110-100",
+      "brand": "Alpine",
+      "model": "A110",
+      "displayName": "Alpine A110",
+      "cost": 538000,
+      "reputationReward": 31,
+      "image": "/assets/status/car/car-alpine-a110-100.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-01.webp",
+        "row": 2,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-honda-s2000-58",
+      "brand": "Honda",
+      "model": "S2000",
+      "displayName": "Honda S2000",
+      "cost": 572000,
+      "reputationReward": 31,
+      "image": "/assets/status/car/car-honda-s2000-58.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-01.webp",
+        "row": 2,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-mazda-rx-7-56",
+      "brand": "Mazda",
+      "model": "RX-7",
+      "displayName": "Mazda RX-7",
+      "cost": 607000,
+      "reputationReward": 32,
+      "image": "/assets/status/car/car-mazda-rx-7-56.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-01.webp",
+        "row": 2,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-nissan-skyline-gt-r-34",
+      "brand": "Nissan",
+      "model": "Skyline GT-R",
+      "displayName": "Nissan Skyline GT-R",
+      "cost": 641000,
+      "reputationReward": 33,
+      "image": "/assets/status/car/car-nissan-skyline-gt-r-34.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-01.webp",
+        "row": 3,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-nissan-gt-r-nismo-196",
+      "brand": "Nissan",
+      "model": "GT-R Nismo",
+      "displayName": "Nissan GT-R Nismo",
+      "cost": 675000,
+      "reputationReward": 33,
+      "image": "/assets/status/car/car-nissan-gt-r-nismo-196.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-01.webp",
+        "row": 3,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ferrari-458-italia-81",
+      "brand": "Ferrari",
+      "model": "458 Italia",
+      "displayName": "Ferrari 458 Italia",
+      "cost": 710000,
+      "reputationReward": 34,
+      "image": "/assets/status/car/car-ferrari-458-italia-81.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-01.webp",
+        "row": 3,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ferrari-488-pista-125",
+      "brand": "Ferrari",
+      "model": "488 Pista",
+      "displayName": "Ferrari 488 Pista",
+      "cost": 744000,
+      "reputationReward": 34,
+      "image": "/assets/status/car/car-ferrari-488-pista-125.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-01.webp",
+        "row": 3,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-mclaren-12c-154",
+      "brand": "McLaren",
+      "model": "12C",
+      "displayName": "McLaren 12C",
+      "cost": 778000,
+      "reputationReward": 35,
+      "image": "/assets/status/car/car-mclaren-12c-154.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-01.webp",
+        "row": 3,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-mclaren-650s-spider-155",
+      "brand": "McLaren",
+      "model": "650S Spider",
+      "displayName": "McLaren 650S Spider",
+      "cost": 813000,
+      "reputationReward": 36,
+      "image": "/assets/status/car/car-mclaren-650s-spider-155.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-01.webp",
+        "row": 4,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lamborghini-huracan-62",
+      "brand": "Lamborghini",
+      "model": "Huracan",
+      "displayName": "Lamborghini Huracan",
+      "cost": 847000,
+      "reputationReward": 36,
+      "image": "/assets/status/car/car-lamborghini-huracan-62.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-01.webp",
+        "row": 4,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lamborghini-gallardo-82",
+      "brand": "Lamborghini",
+      "model": "Gallardo",
+      "displayName": "Lamborghini Gallardo",
+      "cost": 881000,
+      "reputationReward": 37,
+      "image": "/assets/status/car/car-lamborghini-gallardo-82.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-01.webp",
+        "row": 4,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-chevrolet-corvette-z06-c8-192",
+      "brand": "Chevrolet",
+      "model": "Corvette Z06 (C8)",
+      "displayName": "Chevrolet Corvette Z06 (C8)",
+      "cost": 916000,
+      "reputationReward": 37,
+      "image": "/assets/status/car/car-chevrolet-corvette-z06-c8-192.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-01.webp",
+        "row": 4,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-porsche-718-cayman-gt4-rs-141",
+      "brand": "Porsche",
+      "model": "718 Cayman GT4 RS",
+      "displayName": "Porsche 718 Cayman GT4 RS",
+      "cost": 950000,
+      "reputationReward": 38,
+      "image": "/assets/status/car/car-porsche-718-cayman-gt4-rs-141.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-01.webp",
+        "row": 4,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-porsche-718-spyder-rs-142",
+      "brand": "Porsche",
+      "model": "718 Spyder RS",
+      "displayName": "Porsche 718 Spyder RS",
+      "cost": 1100000,
+      "reputationReward": 40,
+      "image": "/assets/status/car/car-porsche-718-spyder-rs-142.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-02.webp",
+        "row": 0,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-porsche-911-dakar-139",
+      "brand": "Porsche",
+      "model": "911 Dakar",
+      "displayName": "Porsche 911 Dakar",
+      "cost": 1543000,
+      "reputationReward": 41,
+      "image": "/assets/status/car/car-porsche-911-dakar-139.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-02.webp",
+        "row": 0,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-porsche-911-s-t-138",
+      "brand": "Porsche",
+      "model": "911 S/T",
+      "displayName": "Porsche 911 S/T",
+      "cost": 1985000,
+      "reputationReward": 41,
+      "image": "/assets/status/car/car-porsche-911-s-t-138.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-02.webp",
+        "row": 0,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-porsche-911-r-144",
+      "brand": "Porsche",
+      "model": "911 R",
+      "displayName": "Porsche 911 R",
+      "cost": 2428000,
+      "reputationReward": 42,
+      "image": "/assets/status/car/car-porsche-911-r-144.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-02.webp",
+        "row": 0,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-porsche-911-sport-classic-143",
+      "brand": "Porsche",
+      "model": "911 Sport Classic",
+      "displayName": "Porsche 911 Sport Classic",
+      "cost": 2870000,
+      "reputationReward": 43,
+      "image": "/assets/status/car/car-porsche-911-sport-classic-143.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-02.webp",
+        "row": 0,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-porsche-911-gt3-rs-4-0-145",
+      "brand": "Porsche",
+      "model": "911 GT3 RS 4.0",
+      "displayName": "Porsche 911 GT3 RS 4.0",
+      "cost": 3313000,
+      "reputationReward": 44,
+      "image": "/assets/status/car/car-porsche-911-gt3-rs-4-0-145.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-02.webp",
+        "row": 1,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-porsche-911-gt3-rs-992-137",
+      "brand": "Porsche",
+      "model": "911 GT3 RS (992)",
+      "displayName": "Porsche 911 GT3 RS (992)",
+      "cost": 3756000,
+      "reputationReward": 44,
+      "image": "/assets/status/car/car-porsche-911-gt3-rs-992-137.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-02.webp",
+        "row": 1,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-porsche-911-gt2-rs-991-2-136",
+      "brand": "Porsche",
+      "model": "911 GT2 RS (991.2)",
+      "displayName": "Porsche 911 GT2 RS (991.2)",
+      "cost": 4198000,
+      "reputationReward": 45,
+      "image": "/assets/status/car/car-porsche-911-gt2-rs-991-2-136.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-02.webp",
+        "row": 1,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-porsche-918-spyder-20",
+      "brand": "Porsche",
+      "model": "918 Spyder",
+      "displayName": "Porsche 918 Spyder",
+      "cost": 4641000,
+      "reputationReward": 46,
+      "image": "/assets/status/car/car-porsche-918-spyder-20.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-02.webp",
+        "row": 1,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-porsche-carrera-gt-14",
+      "brand": "Porsche",
+      "model": "Carrera GT",
+      "displayName": "Porsche Carrera GT",
+      "cost": 5083000,
+      "reputationReward": 47,
+      "image": "/assets/status/car/car-porsche-carrera-gt-14.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-02.webp",
+        "row": 1,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lexus-lfa-15",
+      "brand": "Lexus",
+      "model": "LFA",
+      "displayName": "Lexus LFA",
+      "cost": 5526000,
+      "reputationReward": 47,
+      "image": "/assets/status/car/car-lexus-lfa-15.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-02.webp",
+        "row": 2,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lexus-lfa-nurburgring-package-198",
+      "brand": "Lexus",
+      "model": "LFA Nurburgring Package",
+      "displayName": "Lexus LFA Nurburgring Package",
+      "cost": 5969000,
+      "reputationReward": 48,
+      "image": "/assets/status/car/car-lexus-lfa-nurburgring-package-198.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-02.webp",
+        "row": 2,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-honda-nsx-type-s-197",
+      "brand": "Honda",
+      "model": "NSX Type S",
+      "displayName": "Honda NSX Type S",
+      "cost": 6411000,
+      "reputationReward": 49,
+      "image": "/assets/status/car/car-honda-nsx-type-s-197.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-02.webp",
+        "row": 2,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ford-gt-93",
+      "brand": "Ford",
+      "model": "GT",
+      "displayName": "Ford GT",
+      "cost": 6854000,
+      "reputationReward": 50,
+      "image": "/assets/status/car/car-ford-gt-93.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-02.webp",
+        "row": 2,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ford-mustang-gtd-190",
+      "brand": "Ford",
+      "model": "Mustang GTD",
+      "displayName": "Ford Mustang GTD",
+      "cost": 7296000,
+      "reputationReward": 50,
+      "image": "/assets/status/car/car-ford-mustang-gtd-190.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-02.webp",
+        "row": 2,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-chevrolet-corvette-zr1-c8-191",
+      "brand": "Chevrolet",
+      "model": "Corvette ZR1 (C8)",
+      "displayName": "Chevrolet Corvette ZR1 (C8)",
+      "cost": 7739000,
+      "reputationReward": 51,
+      "image": "/assets/status/car/car-chevrolet-corvette-zr1-c8-191.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-02.webp",
+        "row": 3,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-dodge-viper-27",
+      "brand": "Dodge",
+      "model": "Viper",
+      "displayName": "Dodge Viper",
+      "cost": 8181000,
+      "reputationReward": 52,
+      "image": "/assets/status/car/car-dodge-viper-27.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-02.webp",
+        "row": 3,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-dodge-challenger-srt-demon-170-193",
+      "brand": "Dodge",
+      "model": "Challenger SRT Demon 170",
+      "displayName": "Dodge Challenger SRT Demon 170",
+      "cost": 8624000,
+      "reputationReward": 53,
+      "image": "/assets/status/car/car-dodge-challenger-srt-demon-170-193.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-02.webp",
+        "row": 3,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ferrari-360-modena-79",
+      "brand": "Ferrari",
+      "model": "360 Modena",
+      "displayName": "Ferrari 360 Modena",
+      "cost": 9067000,
+      "reputationReward": 53,
+      "image": "/assets/status/car/car-ferrari-360-modena-79.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-02.webp",
+        "row": 3,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ferrari-430-scuderia-80",
+      "brand": "Ferrari",
+      "model": "430 Scuderia",
+      "displayName": "Ferrari 430 Scuderia",
+      "cost": 9509000,
+      "reputationReward": 54,
+      "image": "/assets/status/car/car-ferrari-430-scuderia-80.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-02.webp",
+        "row": 3,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ferrari-812-superfast-61",
+      "brand": "Ferrari",
+      "model": "812 Superfast",
+      "displayName": "Ferrari 812 Superfast",
+      "cost": 9952000,
+      "reputationReward": 55,
+      "image": "/assets/status/car/car-ferrari-812-superfast-61.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-02.webp",
+        "row": 4,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ferrari-812-competizione-122",
+      "brand": "Ferrari",
+      "model": "812 Competizione",
+      "displayName": "Ferrari 812 Competizione",
+      "cost": 10500000,
+      "reputationReward": 56,
+      "image": "/assets/status/car/car-ferrari-812-competizione-122.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-02.webp",
+        "row": 4,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ferrari-296-gtb-118",
+      "brand": "Ferrari",
+      "model": "296 GTB",
+      "displayName": "Ferrari 296 GTB",
+      "cost": 10750000,
+      "reputationReward": 56,
+      "image": "/assets/status/car/car-ferrari-296-gtb-118.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-02.webp",
+        "row": 4,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ferrari-296-speciale-114",
+      "brand": "Ferrari",
+      "model": "296 Speciale",
+      "displayName": "Ferrari 296 Speciale",
+      "cost": 11250000,
+      "reputationReward": 57,
+      "image": "/assets/status/car/car-ferrari-296-speciale-114.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-02.webp",
+        "row": 4,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ferrari-sf90-stradale-116",
+      "brand": "Ferrari",
+      "model": "SF90 Stradale",
+      "displayName": "Ferrari SF90 Stradale",
+      "cost": 11750000,
+      "reputationReward": 58,
+      "image": "/assets/status/car/car-ferrari-sf90-stradale-116.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-02.webp",
+        "row": 4,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ferrari-sf90-xx-stradale-117",
+      "brand": "Ferrari",
+      "model": "SF90 XX Stradale",
+      "displayName": "Ferrari SF90 XX Stradale",
+      "cost": 12250000,
+      "reputationReward": 59,
+      "image": "/assets/status/car/car-ferrari-sf90-xx-stradale-117.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-03.webp",
+        "row": 0,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ferrari-12cilindri-119",
+      "brand": "Ferrari",
+      "model": "12Cilindri",
+      "displayName": "Ferrari 12Cilindri",
+      "cost": 12500000,
+      "reputationReward": 59,
+      "image": "/assets/status/car/car-ferrari-12cilindri-119.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-03.webp",
+        "row": 0,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ferrari-f12tdf-123",
+      "brand": "Ferrari",
+      "model": "F12tdf",
+      "displayName": "Ferrari F12tdf",
+      "cost": 13000000,
+      "reputationReward": 60,
+      "image": "/assets/status/car/car-ferrari-f12tdf-123.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-03.webp",
+        "row": 0,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ferrari-599-gto-124",
+      "brand": "Ferrari",
+      "model": "599 GTO",
+      "displayName": "Ferrari 599 GTO",
+      "cost": 13500000,
+      "reputationReward": 61,
+      "image": "/assets/status/car/car-ferrari-599-gto-124.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-03.webp",
+        "row": 0,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ferrari-enzo-13",
+      "brand": "Ferrari",
+      "model": "Enzo",
+      "displayName": "Ferrari Enzo",
+      "cost": 14000000,
+      "reputationReward": 61,
+      "image": "/assets/status/car/car-ferrari-enzo-13.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-03.webp",
+        "row": 0,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ferrari-laferrari-19",
+      "brand": "Ferrari",
+      "model": "LaFerrari",
+      "displayName": "Ferrari LaFerrari",
+      "cost": 14500000,
+      "reputationReward": 62,
+      "image": "/assets/status/car/car-ferrari-laferrari-19.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-03.webp",
+        "row": 1,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ferrari-f50-23",
+      "brand": "Ferrari",
+      "model": "F50",
+      "displayName": "Ferrari F50",
+      "cost": 14750000,
+      "reputationReward": 63,
+      "image": "/assets/status/car/car-ferrari-f50-23.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-03.webp",
+        "row": 1,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ferrari-288-gto-39",
+      "brand": "Ferrari",
+      "model": "288 GTO",
+      "displayName": "Ferrari 288 GTO",
+      "cost": 15250000,
+      "reputationReward": 64,
+      "image": "/assets/status/car/car-ferrari-288-gto-39.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-03.webp",
+        "row": 1,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ferrari-testarossa-5",
+      "brand": "Ferrari",
+      "model": "Testarossa",
+      "displayName": "Ferrari Testarossa",
+      "cost": 15750000,
+      "reputationReward": 64,
+      "image": "/assets/status/car/car-ferrari-testarossa-5.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-03.webp",
+        "row": 1,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ferrari-daytona-101",
+      "brand": "Ferrari",
+      "model": "Daytona",
+      "displayName": "Ferrari Daytona",
+      "cost": 16250000,
+      "reputationReward": 65,
+      "image": "/assets/status/car/car-ferrari-daytona-101.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-03.webp",
+        "row": 1,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ferrari-monza-sp2-121",
+      "brand": "Ferrari",
+      "model": "Monza SP2",
+      "displayName": "Ferrari Monza SP2",
+      "cost": 16500000,
+      "reputationReward": 66,
+      "image": "/assets/status/car/car-ferrari-monza-sp2-121.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-03.webp",
+        "row": 2,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ferrari-daytona-sp3-120",
+      "brand": "Ferrari",
+      "model": "Daytona SP3",
+      "displayName": "Ferrari Daytona SP3",
+      "cost": 17000000,
+      "reputationReward": 67,
+      "image": "/assets/status/car/car-ferrari-daytona-sp3-120.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-03.webp",
+        "row": 2,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lamborghini-aventador-22",
+      "brand": "Lamborghini",
+      "model": "Aventador",
+      "displayName": "Lamborghini Aventador",
+      "cost": 17500000,
+      "reputationReward": 67,
+      "image": "/assets/status/car/car-lamborghini-aventador-22.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-03.webp",
+        "row": 2,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lamborghini-aventador-svj-131",
+      "brand": "Lamborghini",
+      "model": "Aventador SVJ",
+      "displayName": "Lamborghini Aventador SVJ",
+      "cost": 18000000,
+      "reputationReward": 68,
+      "image": "/assets/status/car/car-lamborghini-aventador-svj-131.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-03.webp",
+        "row": 2,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lamborghini-huracan-sto-132",
+      "brand": "Lamborghini",
+      "model": "Huracan STO",
+      "displayName": "Lamborghini Huracan STO",
+      "cost": 18250000,
+      "reputationReward": 69,
+      "image": "/assets/status/car/car-lamborghini-huracan-sto-132.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-03.webp",
+        "row": 2,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lamborghini-huracan-sterrato-133",
+      "brand": "Lamborghini",
+      "model": "Huracan Sterrato",
+      "displayName": "Lamborghini Huracan Sterrato",
+      "cost": 18750000,
+      "reputationReward": 70,
+      "image": "/assets/status/car/car-lamborghini-huracan-sterrato-133.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-03.webp",
+        "row": 3,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lamborghini-murcielago-lp-670-4-sv-134",
+      "brand": "Lamborghini",
+      "model": "Murcielago LP 670-4 SV",
+      "displayName": "Lamborghini Murcielago LP 670-4 SV",
+      "cost": 19250000,
+      "reputationReward": 70,
+      "image": "/assets/status/car/car-lamborghini-murcielago-lp-670-4-sv-134.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-03.webp",
+        "row": 3,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lamborghini-diablo-40",
+      "brand": "Lamborghini",
+      "model": "Diablo",
+      "displayName": "Lamborghini Diablo",
+      "cost": 19750000,
+      "reputationReward": 71,
+      "image": "/assets/status/car/car-lamborghini-diablo-40.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-03.webp",
+        "row": 3,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lamborghini-urus-performante-135",
+      "brand": "Lamborghini",
+      "model": "Urus Performante",
+      "displayName": "Lamborghini Urus Performante",
+      "cost": 20250000,
+      "reputationReward": 72,
+      "image": "/assets/status/car/car-lamborghini-urus-performante-135.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-03.webp",
+        "row": 3,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lamborghini-reventon-130",
+      "brand": "Lamborghini",
+      "model": "Reventon",
+      "displayName": "Lamborghini Reventon",
+      "cost": 20500000,
+      "reputationReward": 73,
+      "image": "/assets/status/car/car-lamborghini-reventon-130.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-03.webp",
+        "row": 3,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lamborghini-centenario-128",
+      "brand": "Lamborghini",
+      "model": "Centenario",
+      "displayName": "Lamborghini Centenario",
+      "cost": 21000000,
+      "reputationReward": 73,
+      "image": "/assets/status/car/car-lamborghini-centenario-128.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-03.webp",
+        "row": 4,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lamborghini-countach-lpi-800-4-127",
+      "brand": "Lamborghini",
+      "model": "Countach LPI 800-4",
+      "displayName": "Lamborghini Countach LPI 800-4",
+      "cost": 21500000,
+      "reputationReward": 74,
+      "image": "/assets/status/car/car-lamborghini-countach-lpi-800-4-127.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-03.webp",
+        "row": 4,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lamborghini-sian-fkp-37-126",
+      "brand": "Lamborghini",
+      "model": "Sian FKP 37",
+      "displayName": "Lamborghini Sian FKP 37",
+      "cost": 22000000,
+      "reputationReward": 75,
+      "image": "/assets/status/car/car-lamborghini-sian-fkp-37-126.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-03.webp",
+        "row": 4,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lamborghini-veneno-129",
+      "brand": "Lamborghini",
+      "model": "Veneno",
+      "displayName": "Lamborghini Veneno",
+      "cost": 22250000,
+      "reputationReward": 76,
+      "image": "/assets/status/car/car-lamborghini-veneno-129.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-03.webp",
+        "row": 4,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lamborghini-revuelto-111",
+      "brand": "Lamborghini",
+      "model": "Revuelto",
+      "displayName": "Lamborghini Revuelto",
+      "cost": 22750000,
+      "reputationReward": 76,
+      "image": "/assets/status/car/car-lamborghini-revuelto-111.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-03.webp",
+        "row": 4,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lamborghini-temerario-110",
+      "brand": "Lamborghini",
+      "model": "Temerario",
+      "displayName": "Lamborghini Temerario",
+      "cost": 23250000,
+      "reputationReward": 77,
+      "image": "/assets/status/car/car-lamborghini-temerario-110.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-04.webp",
+        "row": 0,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-mclaren-720s-64",
+      "brand": "McLaren",
+      "model": "720S",
+      "displayName": "McLaren 720S",
+      "cost": 23750000,
+      "reputationReward": 78,
+      "image": "/assets/status/car/car-mclaren-720s-64.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-04.webp",
+        "row": 0,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-mclaren-600lt-152",
+      "brand": "McLaren",
+      "model": "600LT",
+      "displayName": "McLaren 600LT",
+      "cost": 24000000,
+      "reputationReward": 79,
+      "image": "/assets/status/car/car-mclaren-600lt-152.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-04.webp",
+        "row": 0,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-mclaren-675lt-153",
+      "brand": "McLaren",
+      "model": "675LT",
+      "displayName": "McLaren 675LT",
+      "cost": 24500000,
+      "reputationReward": 79,
+      "image": "/assets/status/car/car-mclaren-675lt-153.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-04.webp",
+        "row": 0,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-mclaren-750s-150",
+      "brand": "McLaren",
+      "model": "750S",
+      "displayName": "McLaren 750S",
+      "cost": 25000000,
+      "reputationReward": 80,
+      "image": "/assets/status/car/car-mclaren-750s-150.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-04.webp",
+        "row": 0,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-mclaren-765lt-spider-151",
+      "brand": "McLaren",
+      "model": "765LT Spider",
+      "displayName": "McLaren 765LT Spider",
+      "cost": 30000000,
+      "reputationReward": 82,
+      "image": "/assets/status/car/car-mclaren-765lt-spider-151.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-04.webp",
+        "row": 1,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-mclaren-senna-63",
+      "brand": "McLaren",
+      "model": "Senna",
+      "displayName": "McLaren Senna",
+      "cost": 53500000,
+      "reputationReward": 83,
+      "image": "/assets/status/car/car-mclaren-senna-63.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-04.webp",
+        "row": 1,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-mclaren-p1-21",
+      "brand": "McLaren",
+      "model": "P1",
+      "displayName": "McLaren P1",
+      "cost": 77250000,
+      "reputationReward": 84,
+      "image": "/assets/status/car/car-mclaren-p1-21.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-04.webp",
+        "row": 1,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-mclaren-artura-spider-149",
+      "brand": "McLaren",
+      "model": "Artura Spider",
+      "displayName": "McLaren Artura Spider",
+      "cost": 100750000,
+      "reputationReward": 85,
+      "image": "/assets/status/car/car-mclaren-artura-spider-149.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-04.webp",
+        "row": 1,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-mclaren-elva-147",
+      "brand": "McLaren",
+      "model": "Elva",
+      "displayName": "McLaren Elva",
+      "cost": 124250000,
+      "reputationReward": 86,
+      "image": "/assets/status/car/car-mclaren-elva-147.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-04.webp",
+        "row": 1,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-mclaren-sabre-148",
+      "brand": "McLaren",
+      "model": "Sabre",
+      "displayName": "McLaren Sabre",
+      "cost": 148000000,
+      "reputationReward": 87,
+      "image": "/assets/status/car/car-mclaren-sabre-148.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-04.webp",
+        "row": 2,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-mclaren-speedtail-146",
+      "brand": "McLaren",
+      "model": "Speedtail",
+      "displayName": "McLaren Speedtail",
+      "cost": 171500000,
+      "reputationReward": 88,
+      "image": "/assets/status/car/car-mclaren-speedtail-146.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-04.webp",
+        "row": 2,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-mclaren-w1-109",
+      "brand": "McLaren",
+      "model": "W1",
+      "displayName": "McLaren W1",
+      "cost": 195250000,
+      "reputationReward": 89,
+      "image": "/assets/status/car/car-mclaren-w1-109.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-04.webp",
+        "row": 2,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-mercedes-benz-slr-mclaren-25",
+      "brand": "Mercedes-Benz",
+      "model": "SLR McLaren",
+      "displayName": "Mercedes-Benz SLR McLaren",
+      "cost": 218750000,
+      "reputationReward": 90,
+      "image": "/assets/status/car/car-mercedes-benz-slr-mclaren-25.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-04.webp",
+        "row": 2,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-mercedes-benz-clk-gtr-67",
+      "brand": "Mercedes-Benz",
+      "model": "CLK GTR",
+      "displayName": "Mercedes-Benz CLK GTR",
+      "cost": 242250000,
+      "reputationReward": 91,
+      "image": "/assets/status/car/car-mercedes-benz-clk-gtr-67.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-04.webp",
+        "row": 2,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-maserati-mc20-cielo-199",
+      "brand": "Maserati",
+      "model": "MC20 Cielo",
+      "displayName": "Maserati MC20 Cielo",
+      "cost": 266000000,
+      "reputationReward": 92,
+      "image": "/assets/status/car/car-maserati-mc20-cielo-199.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-04.webp",
+        "row": 3,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-maserati-mc12-24",
+      "brand": "Maserati",
+      "model": "MC12",
+      "displayName": "Maserati MC12",
+      "cost": 289500000,
+      "reputationReward": 93,
+      "image": "/assets/status/car/car-maserati-mc12-24.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-04.webp",
+        "row": 3,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-alfa-romeo-8c-competizione-59",
+      "brand": "Alfa Romeo",
+      "model": "8C Competizione",
+      "displayName": "Alfa Romeo 8C Competizione",
+      "cost": 313000000,
+      "reputationReward": 94,
+      "image": "/assets/status/car/car-alfa-romeo-8c-competizione-59.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-04.webp",
+        "row": 3,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-alfa-romeo-33-stradale-2023-200",
+      "brand": "Alfa Romeo",
+      "model": "33 Stradale (2023)",
+      "displayName": "Alfa Romeo 33 Stradale (2023)",
+      "cost": 336750000,
+      "reputationReward": 95,
+      "image": "/assets/status/car/car-alfa-romeo-33-stradale-2023-200.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-04.webp",
+        "row": 3,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-aston-martin-vantage-41",
+      "brand": "Aston Martin",
+      "model": "Vantage",
+      "displayName": "Aston Martin Vantage",
+      "cost": 360250000,
+      "reputationReward": 96,
+      "image": "/assets/status/car/car-aston-martin-vantage-41.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-04.webp",
+        "row": 3,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-aston-martin-dbs-85",
+      "brand": "Aston Martin",
+      "model": "DBS",
+      "displayName": "Aston Martin DBS",
+      "cost": 383750000,
+      "reputationReward": 97,
+      "image": "/assets/status/car/car-aston-martin-dbs-85.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-04.webp",
+        "row": 4,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-aston-martin-db12-182",
+      "brand": "Aston Martin",
+      "model": "DB12",
+      "displayName": "Aston Martin DB12",
+      "cost": 407500000,
+      "reputationReward": 98,
+      "image": "/assets/status/car/car-aston-martin-db12-182.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-04.webp",
+        "row": 4,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-aston-martin-vanquish-181",
+      "brand": "Aston Martin",
+      "model": "Vanquish",
+      "displayName": "Aston Martin Vanquish",
+      "cost": 431000000,
+      "reputationReward": 99,
+      "image": "/assets/status/car/car-aston-martin-vanquish-181.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-04.webp",
+        "row": 4,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-aston-martin-dbs-770-ultimate-180",
+      "brand": "Aston Martin",
+      "model": "DBS 770 Ultimate",
+      "displayName": "Aston Martin DBS 770 Ultimate",
+      "cost": 454500000,
+      "reputationReward": 100,
+      "image": "/assets/status/car/car-aston-martin-dbs-770-ultimate-180.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-04.webp",
+        "row": 4,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-aston-martin-one-77-60",
+      "brand": "Aston Martin",
+      "model": "One-77",
+      "displayName": "Aston Martin One-77",
+      "cost": 478250000,
+      "reputationReward": 101,
+      "image": "/assets/status/car/car-aston-martin-one-77-60.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-04.webp",
+        "row": 4,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-aston-martin-v12-speedster-183",
+      "brand": "Aston Martin",
+      "model": "V12 Speedster",
+      "displayName": "Aston Martin V12 Speedster",
+      "cost": 501750000,
+      "reputationReward": 101,
+      "image": "/assets/status/car/car-aston-martin-v12-speedster-183.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-05.webp",
+        "row": 0,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-aston-martin-victor-179",
+      "brand": "Aston Martin",
+      "model": "Victor",
+      "displayName": "Aston Martin Victor",
+      "cost": 525500000,
+      "reputationReward": 102,
+      "image": "/assets/status/car/car-aston-martin-victor-179.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-05.webp",
+        "row": 0,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-aston-martin-valiant-178",
+      "brand": "Aston Martin",
+      "model": "Valiant",
+      "displayName": "Aston Martin Valiant",
+      "cost": 549000000,
+      "reputationReward": 103,
+      "image": "/assets/status/car/car-aston-martin-valiant-178.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-05.webp",
+        "row": 0,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-aston-martin-valhalla-113",
+      "brand": "Aston Martin",
+      "model": "Valhalla",
+      "displayName": "Aston Martin Valhalla",
+      "cost": 572500000,
+      "reputationReward": 104,
+      "image": "/assets/status/car/car-aston-martin-valhalla-113.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-05.webp",
+        "row": 0,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-aston-martin-valkyrie-176",
+      "brand": "Aston Martin",
+      "model": "Valkyrie",
+      "displayName": "Aston Martin Valkyrie",
+      "cost": 596250000,
+      "reputationReward": 105,
+      "image": "/assets/status/car/car-aston-martin-valkyrie-176.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-05.webp",
+        "row": 0,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-aston-martin-valkyrie-spider-177",
+      "brand": "Aston Martin",
+      "model": "Valkyrie Spider",
+      "displayName": "Aston Martin Valkyrie Spider",
+      "cost": 619750000,
+      "reputationReward": 106,
+      "image": "/assets/status/car/car-aston-martin-valkyrie-spider-177.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-05.webp",
+        "row": 1,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-bentley-continental-gt-86",
+      "brand": "Bentley",
+      "model": "Continental GT",
+      "displayName": "Bentley Continental GT",
+      "cost": 643250000,
+      "reputationReward": 107,
+      "image": "/assets/status/car/car-bentley-continental-gt-86.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-05.webp",
+        "row": 1,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-bentley-batur-185",
+      "brand": "Bentley",
+      "model": "Batur",
+      "displayName": "Bentley Batur",
+      "cost": 667000000,
+      "reputationReward": 108,
+      "image": "/assets/status/car/car-bentley-batur-185.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-05.webp",
+        "row": 1,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-rolls-royce-phantom-87",
+      "brand": "Rolls-Royce",
+      "model": "Phantom",
+      "displayName": "Rolls-Royce Phantom",
+      "cost": 690500000,
+      "reputationReward": 109,
+      "image": "/assets/status/car/car-rolls-royce-phantom-87.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-05.webp",
+        "row": 1,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-maybach-57-88",
+      "brand": "Maybach",
+      "model": "57",
+      "displayName": "Maybach 57",
+      "cost": 714000000,
+      "reputationReward": 110,
+      "image": "/assets/status/car/car-maybach-57-88.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-05.webp",
+        "row": 1,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-bmw-m1-32",
+      "brand": "BMW",
+      "model": "M1",
+      "displayName": "BMW M1",
+      "cost": 737750000,
+      "reputationReward": 111,
+      "image": "/assets/status/car/car-bmw-m1-32.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-05.webp",
+        "row": 2,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-porsche-959-3",
+      "brand": "Porsche",
+      "model": "959",
+      "displayName": "Porsche 959",
+      "cost": 761250000,
+      "reputationReward": 112,
+      "image": "/assets/status/car/car-porsche-959-3.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-05.webp",
+        "row": 2,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-porsche-911-carrera-rs-37",
+      "brand": "Porsche",
+      "model": "911 Carrera RS",
+      "displayName": "Porsche 911 Carrera RS",
+      "cost": 784750000,
+      "reputationReward": 113,
+      "image": "/assets/status/car/car-porsche-911-carrera-rs-37.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-05.webp",
+        "row": 2,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-porsche-911-gt1-66",
+      "brand": "Porsche",
+      "model": "911 GT1",
+      "displayName": "Porsche 911 GT1",
+      "cost": 808500000,
+      "reputationReward": 114,
+      "image": "/assets/status/car/car-porsche-911-gt1-66.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-05.webp",
+        "row": 2,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ruf-ctr-71",
+      "brand": "Ruf",
+      "model": "CTR",
+      "displayName": "Ruf CTR",
+      "cost": 832000000,
+      "reputationReward": 115,
+      "image": "/assets/status/car/car-ruf-ctr-71.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-05.webp",
+        "row": 2,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-mercedes-benz-190e-2-5-16-evolution-ii-48",
+      "brand": "Mercedes-Benz",
+      "model": "190E 2.5-16 Evolution II",
+      "displayName": "Mercedes-Benz 190E 2.5-16 Evolution II",
+      "cost": 855750000,
+      "reputationReward": 116,
+      "image": "/assets/status/car/car-mercedes-benz-190e-2-5-16-evolution-ii-48.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-05.webp",
+        "row": 3,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-bmw-e30-m3-49",
+      "brand": "BMW",
+      "model": "E30 M3",
+      "displayName": "BMW E30 M3",
+      "cost": 879250000,
+      "reputationReward": 117,
+      "image": "/assets/status/car/car-bmw-e30-m3-49.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-05.webp",
+        "row": 3,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-audi-quattro-36",
+      "brand": "Audi",
+      "model": "Quattro",
+      "displayName": "Audi Quattro",
+      "cost": 902750000,
+      "reputationReward": 118,
+      "image": "/assets/status/car/car-audi-quattro-36.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-05.webp",
+        "row": 3,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lancia-stratos-50",
+      "brand": "Lancia",
+      "model": "Stratos",
+      "displayName": "Lancia Stratos",
+      "cost": 926500000,
+      "reputationReward": 119,
+      "image": "/assets/status/car/car-lancia-stratos-50.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-05.webp",
+        "row": 3,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lancia-delta-integrale-51",
+      "brand": "Lancia",
+      "model": "Delta Integrale",
+      "displayName": "Lancia Delta Integrale",
+      "cost": 950000000,
+      "reputationReward": 120,
+      "image": "/assets/status/car/car-lancia-delta-integrale-51.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-05.webp",
+        "row": 3,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ford-rs200-52",
+      "brand": "Ford",
+      "model": "RS200",
+      "displayName": "Ford RS200",
+      "cost": 1000000000,
+      "reputationReward": 122,
+      "image": "/assets/status/car/car-ford-rs200-52.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-05.webp",
+        "row": 4,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-subaru-impreza-22b-sti-53",
+      "brand": "Subaru",
+      "model": "Impreza 22B STI",
+      "displayName": "Subaru Impreza 22B STI",
+      "cost": 32000000000,
+      "reputationReward": 123,
+      "image": "/assets/status/car/car-subaru-impreza-22b-sti-53.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-05.webp",
+        "row": 4,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-mitsubishi-lancer-evolution-54",
+      "brand": "Mitsubishi",
+      "model": "Lancer Evolution",
+      "displayName": "Mitsubishi Lancer Evolution",
+      "cost": 63000000000,
+      "reputationReward": 124,
+      "image": "/assets/status/car/car-mitsubishi-lancer-evolution-54.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-05.webp",
+        "row": 4,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-nissan-300zx-55",
+      "brand": "Nissan",
+      "model": "300ZX",
+      "displayName": "Nissan 300ZX",
+      "cost": 94000000000,
+      "reputationReward": 125,
+      "image": "/assets/status/car/car-nissan-300zx-55.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-05.webp",
+        "row": 4,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lotus-elise-77",
+      "brand": "Lotus",
+      "model": "Elise",
+      "displayName": "Lotus Elise",
+      "cost": 125000000000,
+      "reputationReward": 126,
+      "image": "/assets/status/car/car-lotus-elise-77.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-05.webp",
+        "row": 4,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lotus-exige-78",
+      "brand": "Lotus",
+      "model": "Exige",
+      "displayName": "Lotus Exige",
+      "cost": 156000000000,
+      "reputationReward": 127,
+      "image": "/assets/status/car/car-lotus-exige-78.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-06.webp",
+        "row": 0,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lotus-esprit-42",
+      "brand": "Lotus",
+      "model": "Esprit",
+      "displayName": "Lotus Esprit",
+      "cost": 187000000000,
+      "reputationReward": 128,
+      "image": "/assets/status/car/car-lotus-esprit-42.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-06.webp",
+        "row": 0,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-caterham-seven-76",
+      "brand": "Caterham",
+      "model": "Seven",
+      "displayName": "Caterham Seven",
+      "cost": 218000000000,
+      "reputationReward": 129,
+      "image": "/assets/status/car/car-caterham-seven-76.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-06.webp",
+        "row": 0,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ariel-atom-74",
+      "brand": "Ariel",
+      "model": "Atom",
+      "displayName": "Ariel Atom",
+      "cost": 249000000000,
+      "reputationReward": 130,
+      "image": "/assets/status/car/car-ariel-atom-74.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-06.webp",
+        "row": 0,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-bac-mono-75",
+      "brand": "BAC",
+      "model": "Mono",
+      "displayName": "BAC Mono",
+      "cost": 280000000000,
+      "reputationReward": 131,
+      "image": "/assets/status/car/car-bac-mono-75.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-06.webp",
+        "row": 0,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-noble-m600-68",
+      "brand": "Noble",
+      "model": "M600",
+      "displayName": "Noble M600",
+      "cost": 311000000000,
+      "reputationReward": 132,
+      "image": "/assets/status/car/car-noble-m600-68.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-06.webp",
+        "row": 1,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-gumpert-apollo-72",
+      "brand": "Gumpert",
+      "model": "Apollo",
+      "displayName": "Gumpert Apollo",
+      "cost": 342000000000,
+      "reputationReward": 133,
+      "image": "/assets/status/car/car-gumpert-apollo-72.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-06.webp",
+        "row": 1,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-zenvo-st1-73",
+      "brand": "Zenvo",
+      "model": "ST1",
+      "displayName": "Zenvo ST1",
+      "cost": 373000000000,
+      "reputationReward": 134,
+      "image": "/assets/status/car/car-zenvo-st1-73.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-06.webp",
+        "row": 1,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-saleen-s7-26",
+      "brand": "Saleen",
+      "model": "S7",
+      "displayName": "Saleen S7",
+      "cost": 404000000000,
+      "reputationReward": 135,
+      "image": "/assets/status/car/car-saleen-s7-26.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-06.webp",
+        "row": 1,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ssc-ultimate-aero-96",
+      "brand": "SSC",
+      "model": "Ultimate Aero",
+      "displayName": "SSC Ultimate Aero",
+      "cost": 435000000000,
+      "reputationReward": 136,
+      "image": "/assets/status/car/car-ssc-ultimate-aero-96.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-06.webp",
+        "row": 1,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-hennessey-venom-gt-95",
+      "brand": "Hennessey",
+      "model": "Venom GT",
+      "displayName": "Hennessey Venom GT",
+      "cost": 466000000000,
+      "reputationReward": 136,
+      "image": "/assets/status/car/car-hennessey-venom-gt-95.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-06.webp",
+        "row": 2,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-hennessey-venom-f5-186",
+      "brand": "Hennessey",
+      "model": "Venom F5",
+      "displayName": "Hennessey Venom F5",
+      "cost": 497000000000,
+      "reputationReward": 137,
+      "image": "/assets/status/car/car-hennessey-venom-f5-186.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-06.webp",
+        "row": 2,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-hennessey-venom-f5-roadster-187",
+      "brand": "Hennessey",
+      "model": "Venom F5 Roadster",
+      "displayName": "Hennessey Venom F5 Roadster",
+      "cost": 528000000000,
+      "reputationReward": 138,
+      "image": "/assets/status/car/car-hennessey-venom-f5-roadster-187.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-06.webp",
+        "row": 2,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ssc-tuatara-188",
+      "brand": "SSC",
+      "model": "Tuatara",
+      "displayName": "SSC Tuatara",
+      "cost": 559000000000,
+      "reputationReward": 139,
+      "image": "/assets/status/car/car-ssc-tuatara-188.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-06.webp",
+        "row": 2,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-czinger-21c-189",
+      "brand": "Czinger",
+      "model": "21C",
+      "displayName": "Czinger 21C",
+      "cost": 590000000000,
+      "reputationReward": 140,
+      "image": "/assets/status/car/car-czinger-21c-189.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-06.webp",
+        "row": 2,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lucid-air-sapphire-194",
+      "brand": "Lucid",
+      "model": "Air Sapphire",
+      "displayName": "Lucid Air Sapphire",
+      "cost": 621000000000,
+      "reputationReward": 141,
+      "image": "/assets/status/car/car-lucid-air-sapphire-194.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-06.webp",
+        "row": 3,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-aspark-owl-195",
+      "brand": "Aspark",
+      "model": "Owl",
+      "displayName": "Aspark Owl",
+      "cost": 652000000000,
+      "reputationReward": 142,
+      "image": "/assets/status/car/car-aspark-owl-195.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-06.webp",
+        "row": 3,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-tesla-roadster-first-generation-98",
+      "brand": "Tesla",
+      "model": "Roadster (first generation)",
+      "displayName": "Tesla Roadster (first generation)",
+      "cost": 683000000000,
+      "reputationReward": 143,
+      "image": "/assets/status/car/car-tesla-roadster-first-generation-98.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-06.webp",
+        "row": 3,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-rimac-nevera-97",
+      "brand": "Rimac",
+      "model": "Nevera",
+      "displayName": "Rimac Nevera",
+      "cost": 714000000000,
+      "reputationReward": 144,
+      "image": "/assets/status/car/car-rimac-nevera-97.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-06.webp",
+        "row": 3,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-pininfarina-battista-99",
+      "brand": "Pininfarina",
+      "model": "Battista",
+      "displayName": "Pininfarina Battista",
+      "cost": 745000000000,
+      "reputationReward": 145,
+      "image": "/assets/status/car/car-pininfarina-battista-99.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-06.webp",
+        "row": 3,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lotus-evija-184",
+      "brand": "Lotus",
+      "model": "Evija",
+      "displayName": "Lotus Evija",
+      "cost": 776000000000,
+      "reputationReward": 146,
+      "image": "/assets/status/car/car-lotus-evija-184.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-06.webp",
+        "row": 4,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-porsche-taycan-turbo-gt-115",
+      "brand": "Porsche",
+      "model": "Taycan Turbo GT",
+      "displayName": "Porsche Taycan Turbo GT",
+      "cost": 807000000000,
+      "reputationReward": 147,
+      "image": "/assets/status/car/car-porsche-taycan-turbo-gt-115.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-06.webp",
+        "row": 4,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-bugatti-veyron-12",
+      "brand": "Bugatti",
+      "model": "Veyron",
+      "displayName": "Bugatti Veyron",
+      "cost": 838000000000,
+      "reputationReward": 148,
+      "image": "/assets/status/car/car-bugatti-veyron-12.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-06.webp",
+        "row": 4,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-bugatti-chiron-18",
+      "brand": "Bugatti",
+      "model": "Chiron",
+      "displayName": "Bugatti Chiron",
+      "cost": 869000000000,
+      "reputationReward": 149,
+      "image": "/assets/status/car/car-bugatti-chiron-18.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-06.webp",
+        "row": 4,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-bugatti-eb110-65",
+      "brand": "Bugatti",
+      "model": "EB110",
+      "displayName": "Bugatti EB110",
+      "cost": 900000000000,
+      "reputationReward": 150,
+      "image": "/assets/status/car/car-bugatti-eb110-65.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-06.webp",
+        "row": 4,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-bugatti-chiron-pur-sport-160",
+      "brand": "Bugatti",
+      "model": "Chiron Pur Sport",
+      "displayName": "Bugatti Chiron Pur Sport",
+      "cost": 1000000000000,
+      "reputationReward": 152,
+      "image": "/assets/status/car/car-bugatti-chiron-pur-sport-160.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-07.webp",
+        "row": 0,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-bugatti-chiron-super-sport-300-plus-161",
+      "brand": "Bugatti",
+      "model": "Chiron Super Sport 300+",
+      "displayName": "Bugatti Chiron Super Sport 300+",
+      "cost": 48325000000000,
+      "reputationReward": 153,
+      "image": "/assets/status/car/car-bugatti-chiron-super-sport-300-plus-161.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-07.webp",
+        "row": 0,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-bugatti-divo-157",
+      "brand": "Bugatti",
+      "model": "Divo",
+      "displayName": "Bugatti Divo",
+      "cost": 95625000000000,
+      "reputationReward": 154,
+      "image": "/assets/status/car/car-bugatti-divo-157.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-07.webp",
+        "row": 0,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-bugatti-centodieci-158",
+      "brand": "Bugatti",
+      "model": "Centodieci",
+      "displayName": "Bugatti Centodieci",
+      "cost": 142950000000000,
+      "reputationReward": 155,
+      "image": "/assets/status/car/car-bugatti-centodieci-158.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-07.webp",
+        "row": 0,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-bugatti-w16-mistral-156",
+      "brand": "Bugatti",
+      "model": "W16 Mistral",
+      "displayName": "Bugatti W16 Mistral",
+      "cost": 190275000000000,
+      "reputationReward": 156,
+      "image": "/assets/status/car/car-bugatti-w16-mistral-156.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-07.webp",
+        "row": 0,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-bugatti-la-voiture-noire-159",
+      "brand": "Bugatti",
+      "model": "La Voiture Noire",
+      "displayName": "Bugatti La Voiture Noire",
+      "cost": 237575000000000,
+      "reputationReward": 157,
+      "image": "/assets/status/car/car-bugatti-la-voiture-noire-159.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-07.webp",
+        "row": 1,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-bugatti-tourbillon-108",
+      "brand": "Bugatti",
+      "model": "Tourbillon",
+      "displayName": "Bugatti Tourbillon",
+      "cost": 284900000000000,
+      "reputationReward": 158,
+      "image": "/assets/status/car/car-bugatti-tourbillon-108.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-07.webp",
+        "row": 1,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-koenigsegg-ccx-17",
+      "brand": "Koenigsegg",
+      "model": "CCX",
+      "displayName": "Koenigsegg CCX",
+      "cost": 332200000000000,
+      "reputationReward": 159,
+      "image": "/assets/status/car/car-koenigsegg-ccx-17.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-07.webp",
+        "row": 1,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-koenigsegg-regera-165",
+      "brand": "Koenigsegg",
+      "model": "Regera",
+      "displayName": "Koenigsegg Regera",
+      "cost": 379525000000000,
+      "reputationReward": 160,
+      "image": "/assets/status/car/car-koenigsegg-regera-165.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-07.webp",
+        "row": 1,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-koenigsegg-agera-rs-166",
+      "brand": "Koenigsegg",
+      "model": "Agera RS",
+      "displayName": "Koenigsegg Agera RS",
+      "cost": 426850000000000,
+      "reputationReward": 161,
+      "image": "/assets/status/car/car-koenigsegg-agera-rs-166.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-07.webp",
+        "row": 1,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-koenigsegg-one-1-167",
+      "brand": "Koenigsegg",
+      "model": "One:1",
+      "displayName": "Koenigsegg One:1",
+      "cost": 474150000000000,
+      "reputationReward": 163,
+      "image": "/assets/status/car/car-koenigsegg-one-1-167.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-07.webp",
+        "row": 2,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-koenigsegg-cc850-168",
+      "brand": "Koenigsegg",
+      "model": "CC850",
+      "displayName": "Koenigsegg CC850",
+      "cost": 521475000000000,
+      "reputationReward": 164,
+      "image": "/assets/status/car/car-koenigsegg-cc850-168.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-07.webp",
+        "row": 2,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-koenigsegg-jesko-attack-163",
+      "brand": "Koenigsegg",
+      "model": "Jesko Attack",
+      "displayName": "Koenigsegg Jesko Attack",
+      "cost": 568800000000000,
+      "reputationReward": 165,
+      "image": "/assets/status/car/car-koenigsegg-jesko-attack-163.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-07.webp",
+        "row": 2,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-koenigsegg-jesko-absolut-162",
+      "brand": "Koenigsegg",
+      "model": "Jesko Absolut",
+      "displayName": "Koenigsegg Jesko Absolut",
+      "cost": 616100000000000,
+      "reputationReward": 166,
+      "image": "/assets/status/car/car-koenigsegg-jesko-absolut-162.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-07.webp",
+        "row": 2,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-koenigsegg-gemera-164",
+      "brand": "Koenigsegg",
+      "model": "Gemera",
+      "displayName": "Koenigsegg Gemera",
+      "cost": 663425000000000,
+      "reputationReward": 167,
+      "image": "/assets/status/car/car-koenigsegg-gemera-164.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-07.webp",
+        "row": 2,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-koenigsegg-sadairs-spear-112",
+      "brand": "Koenigsegg",
+      "model": "Sadair's Spear",
+      "displayName": "Koenigsegg Sadair's Spear",
+      "cost": 710725000000000,
+      "reputationReward": 168,
+      "image": "/assets/status/car/car-koenigsegg-sadairs-spear-112.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-07.webp",
+        "row": 3,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-pagani-zonda-16",
+      "brand": "Pagani",
+      "model": "Zonda",
+      "displayName": "Pagani Zonda",
+      "cost": 758050000000000,
+      "reputationReward": 169,
+      "image": "/assets/status/car/car-pagani-zonda-16.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-07.webp",
+        "row": 3,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-pagani-huayra-171",
+      "brand": "Pagani",
+      "model": "Huayra",
+      "displayName": "Pagani Huayra",
+      "cost": 805375000000000,
+      "reputationReward": 170,
+      "image": "/assets/status/car/car-pagani-huayra-171.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-07.webp",
+        "row": 3,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-pagani-huayra-bc-172",
+      "brand": "Pagani",
+      "model": "Huayra BC",
+      "displayName": "Pagani Huayra BC",
+      "cost": 852675000000000,
+      "reputationReward": 171,
+      "image": "/assets/status/car/car-pagani-huayra-bc-172.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-07.webp",
+        "row": 3,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-pagani-huayra-roadster-bc-173",
+      "brand": "Pagani",
+      "model": "Huayra Roadster BC",
+      "displayName": "Pagani Huayra Roadster BC",
+      "cost": 900000000000000,
+      "reputationReward": 172,
+      "image": "/assets/status/car/car-pagani-huayra-roadster-bc-173.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-07.webp",
+        "row": 3,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-pagani-imola-174",
+      "brand": "Pagani",
+      "model": "Imola",
+      "displayName": "Pagani Imola",
+      "cost": 1000000000000000,
+      "reputationReward": 174,
+      "image": "/assets/status/car/car-pagani-imola-174.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-07.webp",
+        "row": 4,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-pagani-huayra-codalunga-175",
+      "brand": "Pagani",
+      "model": "Huayra Codalunga",
+      "displayName": "Pagani Huayra Codalunga",
+      "cost": 65225000000000000,
+      "reputationReward": 175,
+      "image": "/assets/status/car/car-pagani-huayra-codalunga-175.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-07.webp",
+        "row": 4,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-pagani-utopia-169",
+      "brand": "Pagani",
+      "model": "Utopia",
+      "displayName": "Pagani Utopia",
+      "cost": 129425000000000000,
+      "reputationReward": 176,
+      "image": "/assets/status/car/car-pagani-utopia-169.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-07.webp",
+        "row": 4,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-pagani-utopia-roadster-170",
+      "brand": "Pagani",
+      "model": "Utopia Roadster",
+      "displayName": "Pagani Utopia Roadster",
+      "cost": 193650000000000000,
+      "reputationReward": 177,
+      "image": "/assets/status/car/car-pagani-utopia-roadster-170.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-07.webp",
+        "row": 4,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-shelby-cobra-11",
+      "brand": "Shelby",
+      "model": "Cobra",
+      "displayName": "Shelby Cobra",
+      "cost": 257850000000000000,
+      "reputationReward": 179,
+      "image": "/assets/status/car/car-shelby-cobra-11.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-07.webp",
+        "row": 4,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ford-gt40-10",
+      "brand": "Ford",
+      "model": "GT40",
+      "displayName": "Ford GT40",
+      "cost": 322075000000000000,
+      "reputationReward": 180,
+      "image": "/assets/status/car/car-ford-gt40-10.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-08.webp",
+        "row": 0,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-chevrolet-corvette-c1-28",
+      "brand": "Chevrolet",
+      "model": "Corvette C1",
+      "displayName": "Chevrolet Corvette C1",
+      "cost": 386275000000000000,
+      "reputationReward": 181,
+      "image": "/assets/status/car/car-chevrolet-corvette-c1-28.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-08.webp",
+        "row": 0,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-chevrolet-corvette-c2-29",
+      "brand": "Chevrolet",
+      "model": "Corvette C2",
+      "displayName": "Chevrolet Corvette C2",
+      "cost": 450500000000000000,
+      "reputationReward": 182,
+      "image": "/assets/status/car/car-chevrolet-corvette-c2-29.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-08.webp",
+        "row": 0,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-chevrolet-corvette-c3-30",
+      "brand": "Chevrolet",
+      "model": "Corvette C3",
+      "displayName": "Chevrolet Corvette C3",
+      "cost": 514725000000000000,
+      "reputationReward": 183,
+      "image": "/assets/status/car/car-chevrolet-corvette-c3-30.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-08.webp",
+        "row": 0,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-de-tomaso-pantera-31",
+      "brand": "De Tomaso",
+      "model": "Pantera",
+      "displayName": "De Tomaso Pantera",
+      "cost": 578925000000000000,
+      "reputationReward": 184,
+      "image": "/assets/status/car/car-de-tomaso-pantera-31.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-08.webp",
+        "row": 0,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ford-mustang-boss-429-43",
+      "brand": "Ford",
+      "model": "Mustang Boss 429",
+      "displayName": "Ford Mustang Boss 429",
+      "cost": 643150000000000000,
+      "reputationReward": 185,
+      "image": "/assets/status/car/car-ford-mustang-boss-429-43.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-08.webp",
+        "row": 1,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-plymouth-superbird-44",
+      "brand": "Plymouth",
+      "model": "Superbird",
+      "displayName": "Plymouth Superbird",
+      "cost": 707350000000000000,
+      "reputationReward": 187,
+      "image": "/assets/status/car/car-plymouth-superbird-44.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-08.webp",
+        "row": 1,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-pontiac-gto-45",
+      "brand": "Pontiac",
+      "model": "GTO",
+      "displayName": "Pontiac GTO",
+      "cost": 771575000000000000,
+      "reputationReward": 188,
+      "image": "/assets/status/car/car-pontiac-gto-45.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-08.webp",
+        "row": 1,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-chevrolet-camaro-z28-46",
+      "brand": "Chevrolet",
+      "model": "Camaro Z28",
+      "displayName": "Chevrolet Camaro Z28",
+      "cost": 835775000000000000,
+      "reputationReward": 189,
+      "image": "/assets/status/car/car-chevrolet-camaro-z28-46.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-08.webp",
+        "row": 1,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-dodge-charger-daytona-47",
+      "brand": "Dodge",
+      "model": "Charger Daytona",
+      "displayName": "Dodge Charger Daytona",
+      "cost": 900000000000000000,
+      "reputationReward": 190,
+      "image": "/assets/status/car/car-dodge-charger-daytona-47.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-08.webp",
+        "row": 1,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lamborghini-countach-2",
+      "brand": "Lamborghini",
+      "model": "Countach",
+      "displayName": "Lamborghini Countach",
+      "cost": 1000000000000000000,
+      "reputationReward": 192,
+      "image": "/assets/status/car/car-lamborghini-countach-2.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-08.webp",
+        "row": 2,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-lamborghini-miura-6",
+      "brand": "Lamborghini",
+      "model": "Miura",
+      "displayName": "Lamborghini Miura",
+      "cost": 2555550000000000000,
+      "reputationReward": 194,
+      "image": "/assets/status/car/car-lamborghini-miura-6.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-08.webp",
+        "row": 2,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-jaguar-e-type-7",
+      "brand": "Jaguar",
+      "model": "E-Type",
+      "displayName": "Jaguar E-Type",
+      "cost": 4111100000000000000,
+      "reputationReward": 196,
+      "image": "/assets/status/car/car-jaguar-e-type-7.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-08.webp",
+        "row": 2,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-mercedes-benz-300-sl-8",
+      "brand": "Mercedes-Benz",
+      "model": "300 SL",
+      "displayName": "Mercedes-Benz 300 SL",
+      "cost": 5666675000000000000,
+      "reputationReward": 198,
+      "image": "/assets/status/car/car-mercedes-benz-300-sl-8.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-08.webp",
+        "row": 2,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-aston-martin-db5-9",
+      "brand": "Aston Martin",
+      "model": "DB5",
+      "displayName": "Aston Martin DB5",
+      "cost": 7222225000000000000,
+      "reputationReward": 200,
+      "image": "/assets/status/car/car-aston-martin-db5-9.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-08.webp",
+        "row": 2,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-toyota-2000gt-33",
+      "brand": "Toyota",
+      "model": "2000GT",
+      "displayName": "Toyota 2000GT",
+      "cost": 8777775000000000000,
+      "reputationReward": 202,
+      "image": "/assets/status/car/car-toyota-2000gt-33.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-08.webp",
+        "row": 3,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-porsche-356-102",
+      "brand": "Porsche",
+      "model": "356",
+      "displayName": "Porsche 356",
+      "cost": 10333325000000000000,
+      "reputationReward": 204,
+      "image": "/assets/status/car/car-porsche-356-102.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-08.webp",
+        "row": 3,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-mercedes-benz-ssk-103",
+      "brand": "Mercedes-Benz",
+      "model": "SSK",
+      "displayName": "Mercedes-Benz SSK",
+      "cost": 11888900000000000000,
+      "reputationReward": 206,
+      "image": "/assets/status/car/car-mercedes-benz-ssk-103.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-08.webp",
+        "row": 3,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-aston-martin-db4-104",
+      "brand": "Aston Martin",
+      "model": "DB4",
+      "displayName": "Aston Martin DB4",
+      "cost": 13444450000000000000,
+      "reputationReward": 208,
+      "image": "/assets/status/car/car-aston-martin-db4-104.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-08.webp",
+        "row": 3,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ferrari-250-gto-38",
+      "brand": "Ferrari",
+      "model": "250 GTO",
+      "displayName": "Ferrari 250 GTO",
+      "cost": 15000000000000000000,
+      "reputationReward": 210,
+      "image": "/assets/status/car/car-ferrari-250-gto-38.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-08.webp",
+        "row": 3,
+        "col": 4,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-mclaren-f1-4",
+      "brand": "McLaren",
+      "model": "F1",
+      "displayName": "McLaren F1",
+      "cost": 16000000000000000000,
+      "reputationReward": 212,
+      "image": "/assets/status/car/car-mclaren-f1-4.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-08.webp",
+        "row": 4,
+        "col": 0,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-ferrari-f80-107",
+      "brand": "Ferrari",
+      "model": "F80",
+      "displayName": "Ferrari F80",
+      "cost": 18250000000000000000,
+      "reputationReward": 214,
+      "image": "/assets/status/car/car-ferrari-f80-107.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-08.webp",
+        "row": 4,
+        "col": 1,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-vector-w8-69",
+      "brand": "Vector",
+      "model": "W8",
+      "displayName": "Vector W8",
+      "cost": 20500000000000000000,
+      "reputationReward": 216,
+      "image": "/assets/status/car/car-vector-w8-69.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-08.webp",
+        "row": 4,
+        "col": 2,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-cizeta-moroder-v16t-70",
+      "brand": "Cizeta-Moroder",
+      "model": "V16T",
+      "displayName": "Cizeta-Moroder V16T",
+      "cost": 22750000000000000000,
+      "reputationReward": 218,
+      "image": "/assets/status/car/car-cizeta-moroder-v16t-70.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-08.webp",
+        "row": 4,
+        "col": 3,
+        "grid": 5
+      }
+    },
+    {
+      "id": "car-bugatti-type-35-105",
+      "brand": "Bugatti",
+      "model": "Type 35",
+      "displayName": "Bugatti Type 35",
+      "cost": 25000000000000000000,
+      "reputationReward": 220,
+      "image": "/assets/status/car/car-bugatti-type-35-105.webp",
+      "sprite": {
+        "sheet": "/assets/status/car-sprites/car-sheet-08.webp",
+        "row": 4,
+        "col": 4,
+        "grid": 5
+      }
+    }
+  ]
+}

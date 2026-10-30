@@ -1,0 +1,1 @@
+var e=`business-tycoon:rewarded-ad-feedback`;function t(t){typeof window>`u`||window.dispatchEvent(new CustomEvent(e,{detail:{message:t}}))}export{t as n,e as t};

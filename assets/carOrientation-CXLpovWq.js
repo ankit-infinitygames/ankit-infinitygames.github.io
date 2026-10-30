@@ -1,0 +1,1 @@
+var e=new Set([`car-ferrari-testarossa-5`,`car-vector-w8-69`,`car-cizeta-moroder-v16t-70`]);function t(t){return e.has(t)}export{t};

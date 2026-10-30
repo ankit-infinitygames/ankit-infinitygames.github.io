@@ -1,0 +1,1 @@
+var e=0,t,n=!1;function r(e){n=e}function i(){let r={id:++e,draws:0,simulatedMs:0,droppedMs:0,mode:`moving`};return t=r,{frame(e,t){n&&(r.draws+=1,r.simulatedMs+=e,r.droppedMs+=t)},setMode(e){r.mode=e},dispose(){t===r&&(t=void 0)}}}function a(){return n&&t?{...t}:void 0}export{a as n,r,i as t};

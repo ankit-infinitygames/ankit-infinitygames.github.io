@@ -1,0 +1,1 @@
+function e(e){let t=e.shopPurchases??{},n=!!(e.diamondPass||(t.diamond_pack??0)>0),r=!!(n||e.vipPass||(t.vip_pass??0)>0);return{boss:!!(r||e.premiumPass||(t.boss_pass??0)>0),vip:r,diamond:n,manager:!!(e.managerHired||(t.manager_hire??0)>0)}}var t=[`boss_pass`,`vip_pass`,`diamond_pack`,`manager_hire`];export{e as n,t};

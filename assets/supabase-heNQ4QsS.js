@@ -1,0 +1,1 @@
+import{h as e}from"./vendor-CxWo85Ho.js";var t=``,n=``,r=null;function i(){return!!t}function a(){return i()?r||(r=e(t,n,{auth:{persistSession:!1,autoRefreshToken:!1,detectSessionInUrl:!1},global:{headers:{"x-client-info":`broke-to-boss`}}}),r):null}export{i as n,a as t};

@@ -1,0 +1,1 @@
+function e(e,t){if(!(!e||e.steps.length===0))return e.steps[Math.min(t?.completedSteps??0,e.steps.length-1)]}function t(t,n,r){let i=t.find(e=>e.status!==`recovered`);if(i)return{indicator:i,requirementLabel:e(n.find(e=>e.indicatorId===i.id),r[i.id])?.requirementLabel??i.requirementLabel,recovered:t.filter(e=>e.status===`recovered`).length,total:t.length}}export{t as n,e as t};

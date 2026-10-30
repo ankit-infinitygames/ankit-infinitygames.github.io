@@ -1,0 +1,372 @@
+{
+  "generatedAt": "2026-06-15T11:09:03.536Z",
+  "dryRun": true,
+  "force": false,
+  "modelId": "eleven_text_to_sound_v2",
+  "planned": [
+    {
+      "id": "ui_tap",
+      "output": "public/assets/sfx/ui_tap.mp3",
+      "exists": true
+    },
+    {
+      "id": "ui_tab_switch",
+      "output": "public/assets/sfx/ui_tab_switch.mp3",
+      "exists": true
+    },
+    {
+      "id": "modal_open",
+      "output": "public/assets/sfx/modal_open.mp3",
+      "exists": true
+    },
+    {
+      "id": "modal_close",
+      "output": "public/assets/sfx/modal_close.mp3",
+      "exists": true
+    },
+    {
+      "id": "button_disabled",
+      "output": "public/assets/sfx/button_disabled.mp3",
+      "exists": true
+    },
+    {
+      "id": "settings_toggle",
+      "output": "public/assets/sfx/settings_toggle.mp3",
+      "exists": true
+    },
+    {
+      "id": "cash_tick_small",
+      "output": "public/assets/sfx/cash_tick_small.mp3",
+      "exists": true
+    },
+    {
+      "id": "cash_collect",
+      "output": "public/assets/sfx/cash_collect.mp3",
+      "exists": true
+    },
+    {
+      "id": "cash_big_win",
+      "output": "public/assets/sfx/cash_big_win.mp3",
+      "exists": true
+    },
+    {
+      "id": "rep_gain",
+      "output": "public/assets/sfx/rep_gain.mp3",
+      "exists": true
+    },
+    {
+      "id": "level_up",
+      "output": "public/assets/sfx/level_up.mp3",
+      "exists": true
+    },
+    {
+      "id": "reward_claim",
+      "output": "public/assets/sfx/reward_claim.mp3",
+      "exists": true
+    },
+    {
+      "id": "reward_collect_big",
+      "output": "public/assets/sfx/reward_collect_big.mp3",
+      "exists": true
+    },
+    {
+      "id": "status_wheel_spin",
+      "output": "public/assets/sfx/status_wheel_spin.mp3",
+      "exists": true
+    },
+    {
+      "id": "status_wheel_tick",
+      "output": "public/assets/sfx/status_wheel_tick.mp3",
+      "exists": true
+    },
+    {
+      "id": "status_wheel_prize",
+      "output": "public/assets/sfx/status_wheel_prize.mp3",
+      "exists": true
+    },
+    {
+      "id": "purchase_success",
+      "output": "public/assets/sfx/purchase_success.mp3",
+      "exists": true
+    },
+    {
+      "id": "loan_approved",
+      "output": "public/assets/sfx/loan_approved.mp3",
+      "exists": true
+    },
+    {
+      "id": "loan_slot_ready",
+      "output": "public/assets/sfx/loan_slot_ready.mp3",
+      "exists": true
+    },
+    {
+      "id": "ore_spawn",
+      "output": "public/assets/sfx/ore_spawn.mp3",
+      "exists": true
+    },
+    {
+      "id": "ore_crack_soft",
+      "output": "public/assets/sfx/ore_crack_soft.mp3",
+      "exists": true
+    },
+    {
+      "id": "ore_crack_hard",
+      "output": "public/assets/sfx/ore_crack_hard.mp3",
+      "exists": true
+    },
+    {
+      "id": "ore_drop_funnel",
+      "output": "public/assets/sfx/ore_drop_funnel.mp3",
+      "exists": true
+    },
+    {
+      "id": "refinery_cash_burst",
+      "output": "public/assets/sfx/refinery_cash_burst.mp3",
+      "exists": true
+    },
+    {
+      "id": "boost_activate",
+      "output": "public/assets/sfx/boost_activate.mp3",
+      "exists": true
+    },
+    {
+      "id": "daily_chest_open",
+      "output": "public/assets/sfx/daily_chest_open.mp3",
+      "exists": true
+    },
+    {
+      "id": "ore_surge_burst",
+      "output": "public/assets/sfx/ore_surge_burst.mp3",
+      "exists": true
+    },
+    {
+      "id": "combo_peak",
+      "output": "public/assets/sfx/combo_peak.mp3",
+      "exists": true
+    },
+    {
+      "id": "parking_tick",
+      "output": "public/assets/sfx/parking_tick.mp3",
+      "exists": true
+    },
+    {
+      "id": "parking_complete",
+      "output": "public/assets/sfx/parking_complete.mp3",
+      "exists": true
+    },
+    {
+      "id": "car_wash_swipe",
+      "output": "public/assets/sfx/car_wash_swipe.mp3",
+      "exists": true
+    },
+    {
+      "id": "car_wash_complete",
+      "output": "public/assets/sfx/car_wash_complete.mp3",
+      "exists": true
+    },
+    {
+      "id": "package_pickup",
+      "output": "public/assets/sfx/package_pickup.mp3",
+      "exists": true
+    },
+    {
+      "id": "package_drop",
+      "output": "public/assets/sfx/package_drop.mp3",
+      "exists": true
+    },
+    {
+      "id": "route_complete",
+      "output": "public/assets/sfx/route_complete.mp3",
+      "exists": true
+    },
+    {
+      "id": "grill_sizzle",
+      "output": "public/assets/sfx/grill_sizzle.mp3",
+      "exists": true
+    },
+    {
+      "id": "order_serve",
+      "output": "public/assets/sfx/order_serve.mp3",
+      "exists": true
+    },
+    {
+      "id": "wipe_swish",
+      "output": "public/assets/sfx/wipe_swish.mp3",
+      "exists": true
+    },
+    {
+      "id": "room_clean",
+      "output": "public/assets/sfx/room_clean.mp3",
+      "exists": true
+    },
+    {
+      "id": "laundry_spin",
+      "output": "public/assets/sfx/laundry_spin.mp3",
+      "exists": true
+    },
+    {
+      "id": "laundry_fold",
+      "output": "public/assets/sfx/laundry_fold.mp3",
+      "exists": true
+    },
+    {
+      "id": "vending_pack",
+      "output": "public/assets/sfx/vending_pack.mp3",
+      "exists": true
+    },
+    {
+      "id": "vending_drop",
+      "output": "public/assets/sfx/vending_drop.mp3",
+      "exists": true
+    },
+    {
+      "id": "repair_cube_pick",
+      "output": "public/assets/sfx/repair_cube_pick.mp3",
+      "exists": true
+    },
+    {
+      "id": "repair_cube_snap",
+      "output": "public/assets/sfx/repair_cube_snap.mp3",
+      "exists": true
+    },
+    {
+      "id": "repair_complete",
+      "output": "public/assets/sfx/repair_complete.mp3",
+      "exists": true
+    },
+    {
+      "id": "shelf_pick",
+      "output": "public/assets/sfx/shelf_pick.mp3",
+      "exists": true
+    },
+    {
+      "id": "shelf_place",
+      "output": "public/assets/sfx/shelf_place.mp3",
+      "exists": true
+    },
+    {
+      "id": "shelf_complete",
+      "output": "public/assets/sfx/shelf_complete.mp3",
+      "exists": true
+    },
+    {
+      "id": "storage_sort",
+      "output": "public/assets/sfx/storage_sort.mp3",
+      "exists": true
+    },
+    {
+      "id": "storage_list",
+      "output": "public/assets/sfx/storage_list.mp3",
+      "exists": true
+    },
+    {
+      "id": "moving_lift",
+      "output": "public/assets/sfx/moving_lift.mp3",
+      "exists": true
+    },
+    {
+      "id": "moving_drop",
+      "output": "public/assets/sfx/moving_drop.mp3",
+      "exists": true
+    },
+    {
+      "id": "asset_buy",
+      "output": "public/assets/sfx/asset_buy.mp3",
+      "exists": true
+    },
+    {
+      "id": "business_acquired",
+      "output": "public/assets/sfx/business_acquired.mp3",
+      "exists": true
+    },
+    {
+      "id": "business_upgrade",
+      "output": "public/assets/sfx/business_upgrade.mp3",
+      "exists": true
+    },
+    {
+      "id": "car_acquired",
+      "output": "public/assets/sfx/car_acquired.mp3",
+      "exists": true
+    },
+    {
+      "id": "shelf_item_open",
+      "output": "public/assets/sfx/shelf_item_open.mp3",
+      "exists": true
+    },
+    {
+      "id": "shop_open",
+      "output": "public/assets/sfx/shop_open.mp3",
+      "exists": true
+    },
+    {
+      "id": "bank_sheet_open",
+      "output": "public/assets/sfx/bank_sheet_open.mp3",
+      "exists": true
+    },
+    {
+      "id": "bank_sheet_close",
+      "output": "public/assets/sfx/bank_sheet_close.mp3",
+      "exists": true
+    },
+    {
+      "id": "feature_tip_reveal",
+      "output": "public/assets/sfx/feature_tip_reveal.mp3",
+      "exists": true
+    },
+    {
+      "id": "feature_tip_dismiss",
+      "output": "public/assets/sfx/feature_tip_dismiss.mp3",
+      "exists": true
+    },
+    {
+      "id": "opportunity_start",
+      "output": "public/assets/sfx/opportunity_start.mp3",
+      "exists": true
+    },
+    {
+      "id": "boss_pass_unlock",
+      "output": "public/assets/sfx/boss_pass_unlock.mp3",
+      "exists": true
+    },
+    {
+      "id": "vip_pass_unlock",
+      "output": "public/assets/sfx/vip_pass_unlock.mp3",
+      "exists": true
+    },
+    {
+      "id": "diamond_pack_unlock",
+      "output": "public/assets/sfx/diamond_pack_unlock.mp3",
+      "exists": true
+    },
+    {
+      "id": "crisis_warning",
+      "output": "public/assets/sfx/crisis_warning.mp3",
+      "exists": true
+    },
+    {
+      "id": "crisis_countdown_tick",
+      "output": "public/assets/sfx/crisis_countdown_tick.mp3",
+      "exists": true
+    },
+    {
+      "id": "crisis_choice_good",
+      "output": "public/assets/sfx/crisis_choice_good.mp3",
+      "exists": true
+    },
+    {
+      "id": "crisis_choice_costly",
+      "output": "public/assets/sfx/crisis_choice_costly.mp3",
+      "exists": true
+    },
+    {
+      "id": "crisis_choice_bad",
+      "output": "public/assets/sfx/crisis_choice_bad.mp3",
+      "exists": true
+    }
+  ],
+  "generated": [],
+  "skipped": [],
+  "failed": [],
+  "missing": []
+}

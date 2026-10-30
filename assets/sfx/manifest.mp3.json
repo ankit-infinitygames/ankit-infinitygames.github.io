@@ -1,0 +1,593 @@
+{
+  "convertedAt": "2026-09-23T08:51:42.432Z",
+  "format": {
+    "container": "mp3",
+    "codec": "libmp3lame",
+    "bitrate": "64k",
+    "sampleRate": 44100,
+    "channels": 1
+  },
+  "dryRun": false,
+  "keepWav": false,
+  "converted": [
+    {
+      "id": "asset_buy",
+      "input": "asset_buy.wav",
+      "output": "asset_buy.mp3",
+      "inputBytes": 40650,
+      "outputBytes": 7984
+    },
+    {
+      "id": "bank_sheet_close",
+      "input": "bank_sheet_close.wav",
+      "output": "bank_sheet_close.mp3",
+      "inputBytes": 26538,
+      "outputBytes": 5267
+    },
+    {
+      "id": "bank_sheet_open",
+      "input": "bank_sheet_open.wav",
+      "output": "bank_sheet_open.mp3",
+      "inputBytes": 33594,
+      "outputBytes": 6730
+    },
+    {
+      "id": "boost_activate",
+      "input": "boost_activate.wav",
+      "output": "boost_activate.mp3",
+      "inputBytes": 38886,
+      "outputBytes": 7566
+    },
+    {
+      "id": "boss_pass_unlock",
+      "input": "boss_pass_unlock.wav",
+      "output": "boss_pass_unlock.mp3",
+      "inputBytes": 54762,
+      "outputBytes": 10492
+    },
+    {
+      "id": "business_acquired",
+      "input": "business_acquired.wav",
+      "output": "business_acquired.mp3",
+      "inputBytes": 49470,
+      "outputBytes": 9447
+    },
+    {
+      "id": "business_upgrade",
+      "input": "business_upgrade.wav",
+      "output": "business_upgrade.mp3",
+      "inputBytes": 40650,
+      "outputBytes": 7984
+    },
+    {
+      "id": "button_disabled",
+      "input": "button_disabled.wav",
+      "output": "button_disabled.mp3",
+      "inputBytes": 21246,
+      "outputBytes": 4431
+    },
+    {
+      "id": "car_acquired",
+      "input": "car_acquired.wav",
+      "output": "car_acquired.mp3",
+      "inputBytes": 54762,
+      "outputBytes": 10492
+    },
+    {
+      "id": "car_wash_complete",
+      "input": "car_wash_complete.wav",
+      "output": "car_wash_complete.mp3",
+      "inputBytes": 38886,
+      "outputBytes": 7566
+    },
+    {
+      "id": "car_wash_swipe",
+      "input": "car_wash_swipe.wav",
+      "output": "car_wash_swipe.mp3",
+      "inputBytes": 28302,
+      "outputBytes": 5685
+    },
+    {
+      "id": "cash_big_win",
+      "input": "cash_big_win.wav",
+      "output": "cash_big_win.mp3",
+      "inputBytes": 58290,
+      "outputBytes": 11118
+    },
+    {
+      "id": "cash_collect",
+      "input": "cash_collect.wav",
+      "output": "cash_collect.mp3",
+      "inputBytes": 38886,
+      "outputBytes": 7566
+    },
+    {
+      "id": "cash_tick_small",
+      "input": "cash_tick_small.wav",
+      "output": "cash_tick_small.mp3",
+      "inputBytes": 23010,
+      "outputBytes": 4640
+    },
+    {
+      "id": "combo_peak",
+      "input": "combo_peak.wav",
+      "output": "combo_peak.mp3",
+      "inputBytes": 31830,
+      "outputBytes": 6312
+    },
+    {
+      "id": "crisis_choice_bad",
+      "input": "crisis_choice_bad.wav",
+      "output": "crisis_choice_bad.mp3",
+      "inputBytes": 37122,
+      "outputBytes": 7357
+    },
+    {
+      "id": "crisis_choice_costly",
+      "input": "crisis_choice_costly.wav",
+      "output": "crisis_choice_costly.mp3",
+      "inputBytes": 37122,
+      "outputBytes": 7357
+    },
+    {
+      "id": "crisis_choice_good",
+      "input": "crisis_choice_good.wav",
+      "output": "crisis_choice_good.mp3",
+      "inputBytes": 37122,
+      "outputBytes": 7357
+    },
+    {
+      "id": "crisis_countdown_tick",
+      "input": "crisis_countdown_tick.wav",
+      "output": "crisis_countdown_tick.mp3",
+      "inputBytes": 21246,
+      "outputBytes": 4431
+    },
+    {
+      "id": "crisis_warning",
+      "input": "crisis_warning.wav",
+      "output": "crisis_warning.mp3",
+      "inputBytes": 44178,
+      "outputBytes": 8611
+    },
+    {
+      "id": "daily_chest_open",
+      "input": "daily_chest_open.wav",
+      "output": "daily_chest_open.mp3",
+      "inputBytes": 40650,
+      "outputBytes": 7984
+    },
+    {
+      "id": "diamond_pack_unlock",
+      "input": "diamond_pack_unlock.wav",
+      "output": "diamond_pack_unlock.mp3",
+      "inputBytes": 63582,
+      "outputBytes": 12163
+    },
+    {
+      "id": "feature_tip_dismiss",
+      "input": "feature_tip_dismiss.wav",
+      "output": "feature_tip_dismiss.mp3",
+      "inputBytes": 21246,
+      "outputBytes": 4431
+    },
+    {
+      "id": "feature_tip_reveal",
+      "input": "feature_tip_reveal.wav",
+      "output": "feature_tip_reveal.mp3",
+      "inputBytes": 26538,
+      "outputBytes": 5267
+    },
+    {
+      "id": "grill_sizzle",
+      "input": "grill_sizzle.wav",
+      "output": "grill_sizzle.mp3",
+      "inputBytes": 30078,
+      "outputBytes": 6103
+    },
+    {
+      "id": "laundry_fold",
+      "input": "laundry_fold.wav",
+      "output": "laundry_fold.mp3",
+      "inputBytes": 30078,
+      "outputBytes": 6103
+    },
+    {
+      "id": "laundry_spin",
+      "input": "laundry_spin.wav",
+      "output": "laundry_spin.mp3",
+      "inputBytes": 35358,
+      "outputBytes": 6939
+    },
+    {
+      "id": "level_up",
+      "input": "level_up.wav",
+      "output": "level_up.mp3",
+      "inputBytes": 54762,
+      "outputBytes": 10492
+    },
+    {
+      "id": "loan_approved",
+      "input": "loan_approved.wav",
+      "output": "loan_approved.mp3",
+      "inputBytes": 44178,
+      "outputBytes": 8611
+    },
+    {
+      "id": "loan_slot_ready",
+      "input": "loan_slot_ready.wav",
+      "output": "loan_slot_ready.mp3",
+      "inputBytes": 26538,
+      "outputBytes": 5267
+    },
+    {
+      "id": "modal_close",
+      "input": "modal_close.wav",
+      "output": "modal_close.mp3",
+      "inputBytes": 24774,
+      "outputBytes": 5058
+    },
+    {
+      "id": "modal_open",
+      "input": "modal_open.wav",
+      "output": "modal_open.mp3",
+      "inputBytes": 31830,
+      "outputBytes": 6312
+    },
+    {
+      "id": "moving_drop",
+      "input": "moving_drop.wav",
+      "output": "moving_drop.mp3",
+      "inputBytes": 33594,
+      "outputBytes": 6730
+    },
+    {
+      "id": "moving_lift",
+      "input": "moving_lift.wav",
+      "output": "moving_lift.mp3",
+      "inputBytes": 28302,
+      "outputBytes": 5685
+    },
+    {
+      "id": "opportunity_start",
+      "input": "opportunity_start.wav",
+      "output": "opportunity_start.mp3",
+      "inputBytes": 37122,
+      "outputBytes": 7357
+    },
+    {
+      "id": "order_serve",
+      "input": "order_serve.wav",
+      "output": "order_serve.mp3",
+      "inputBytes": 31830,
+      "outputBytes": 6312
+    },
+    {
+      "id": "ore_crack_hard",
+      "input": "ore_crack_hard.wav",
+      "output": "ore_crack_hard.mp3",
+      "inputBytes": 30078,
+      "outputBytes": 6103
+    },
+    {
+      "id": "ore_crack_soft",
+      "input": "ore_crack_soft.wav",
+      "output": "ore_crack_soft.mp3",
+      "inputBytes": 23010,
+      "outputBytes": 4640
+    },
+    {
+      "id": "ore_drop_funnel",
+      "input": "ore_drop_funnel.wav",
+      "output": "ore_drop_funnel.mp3",
+      "inputBytes": 31830,
+      "outputBytes": 6312
+    },
+    {
+      "id": "ore_spawn",
+      "input": "ore_spawn.wav",
+      "output": "ore_spawn.mp3",
+      "inputBytes": 31830,
+      "outputBytes": 6312
+    },
+    {
+      "id": "ore_surge_burst",
+      "input": "ore_surge_burst.wav",
+      "output": "ore_surge_burst.mp3",
+      "inputBytes": 37122,
+      "outputBytes": 7357
+    },
+    {
+      "id": "package_drop",
+      "input": "package_drop.wav",
+      "output": "package_drop.mp3",
+      "inputBytes": 26538,
+      "outputBytes": 5267
+    },
+    {
+      "id": "package_pickup",
+      "input": "package_pickup.wav",
+      "output": "package_pickup.mp3",
+      "inputBytes": 23010,
+      "outputBytes": 4640
+    },
+    {
+      "id": "parking_complete",
+      "input": "parking_complete.wav",
+      "output": "parking_complete.mp3",
+      "inputBytes": 37122,
+      "outputBytes": 7357
+    },
+    {
+      "id": "parking_tick",
+      "input": "parking_tick.wav",
+      "output": "parking_tick.mp3",
+      "inputBytes": 23010,
+      "outputBytes": 4640
+    },
+    {
+      "id": "purchase_success",
+      "input": "purchase_success.wav",
+      "output": "purchase_success.mp3",
+      "inputBytes": 40650,
+      "outputBytes": 7984
+    },
+    {
+      "id": "refinery_cash_burst",
+      "input": "refinery_cash_burst.wav",
+      "output": "refinery_cash_burst.mp3",
+      "inputBytes": 38886,
+      "outputBytes": 7566
+    },
+    {
+      "id": "rep_gain",
+      "input": "rep_gain.wav",
+      "output": "rep_gain.mp3",
+      "inputBytes": 35358,
+      "outputBytes": 6939
+    },
+    {
+      "id": "repair_complete",
+      "input": "repair_complete.wav",
+      "output": "repair_complete.mp3",
+      "inputBytes": 38886,
+      "outputBytes": 7566
+    },
+    {
+      "id": "repair_cube_pick",
+      "input": "repair_cube_pick.wav",
+      "output": "repair_cube_pick.mp3",
+      "inputBytes": 21246,
+      "outputBytes": 4431
+    },
+    {
+      "id": "repair_cube_snap",
+      "input": "repair_cube_snap.wav",
+      "output": "repair_cube_snap.mp3",
+      "inputBytes": 26538,
+      "outputBytes": 5267
+    },
+    {
+      "id": "reward_claim",
+      "input": "reward_claim.wav",
+      "output": "reward_claim.mp3",
+      "inputBytes": 38886,
+      "outputBytes": 7566
+    },
+    {
+      "id": "reward_collect_big",
+      "input": "reward_collect_big.wav",
+      "output": "reward_collect_big.mp3",
+      "inputBytes": 45942,
+      "outputBytes": 8820
+    },
+    {
+      "id": "room_clean",
+      "input": "room_clean.wav",
+      "output": "room_clean.mp3",
+      "inputBytes": 35358,
+      "outputBytes": 6939
+    },
+    {
+      "id": "route_complete",
+      "input": "route_complete.wav",
+      "output": "route_complete.mp3",
+      "inputBytes": 40650,
+      "outputBytes": 7984
+    },
+    {
+      "id": "settings_toggle",
+      "input": "settings_toggle.wav",
+      "output": "settings_toggle.mp3",
+      "inputBytes": 23010,
+      "outputBytes": 4640
+    },
+    {
+      "id": "shelf_complete",
+      "input": "shelf_complete.wav",
+      "output": "shelf_complete.mp3",
+      "inputBytes": 38886,
+      "outputBytes": 7566
+    },
+    {
+      "id": "shelf_item_open",
+      "input": "shelf_item_open.wav",
+      "output": "shelf_item_open.mp3",
+      "inputBytes": 37122,
+      "outputBytes": 7357
+    },
+    {
+      "id": "shelf_pick",
+      "input": "shelf_pick.wav",
+      "output": "shelf_pick.mp3",
+      "inputBytes": 23010,
+      "outputBytes": 4640
+    },
+    {
+      "id": "shelf_place",
+      "input": "shelf_place.wav",
+      "output": "shelf_place.mp3",
+      "inputBytes": 26538,
+      "outputBytes": 5267
+    },
+    {
+      "id": "shop_open",
+      "input": "shop_open.wav",
+      "output": "shop_open.mp3",
+      "inputBytes": 35358,
+      "outputBytes": 6939
+    },
+    {
+      "id": "status_wheel_prize",
+      "input": "status_wheel_prize.wav",
+      "output": "status_wheel_prize.mp3",
+      "inputBytes": 47706,
+      "outputBytes": 9238
+    },
+    {
+      "id": "status_wheel_spin",
+      "input": "status_wheel_spin.wav",
+      "output": "status_wheel_spin.mp3",
+      "inputBytes": 63582,
+      "outputBytes": 12163
+    },
+    {
+      "id": "status_wheel_tick",
+      "input": "status_wheel_tick.wav",
+      "output": "status_wheel_tick.mp3",
+      "inputBytes": 21246,
+      "outputBytes": 4431
+    },
+    {
+      "id": "storage_list",
+      "input": "storage_list.wav",
+      "output": "storage_list.mp3",
+      "inputBytes": 35358,
+      "outputBytes": 6939
+    },
+    {
+      "id": "storage_sort",
+      "input": "storage_sort.wav",
+      "output": "storage_sort.mp3",
+      "inputBytes": 26538,
+      "outputBytes": 5267
+    },
+    {
+      "id": "ui_tab_switch",
+      "input": "ui_tab_switch.wav",
+      "output": "ui_tab_switch.mp3",
+      "inputBytes": 23010,
+      "outputBytes": 4640
+    },
+    {
+      "id": "ui_tap",
+      "input": "ui_tap.wav",
+      "output": "ui_tap.mp3",
+      "inputBytes": 21246,
+      "outputBytes": 4431
+    },
+    {
+      "id": "vending_drop",
+      "input": "vending_drop.wav",
+      "output": "vending_drop.mp3",
+      "inputBytes": 28302,
+      "outputBytes": 5685
+    },
+    {
+      "id": "vending_pack",
+      "input": "vending_pack.wav",
+      "output": "vending_pack.mp3",
+      "inputBytes": 24774,
+      "outputBytes": 5058
+    },
+    {
+      "id": "vip_pass_unlock",
+      "input": "vip_pass_unlock.wav",
+      "output": "vip_pass_unlock.mp3",
+      "inputBytes": 56526,
+      "outputBytes": 10700
+    },
+    {
+      "id": "wipe_swish",
+      "input": "wipe_swish.wav",
+      "output": "wipe_swish.mp3",
+      "inputBytes": 26538,
+      "outputBytes": 5267
+    }
+  ],
+  "failed": [],
+  "deletedWav": [
+    "asset_buy",
+    "bank_sheet_close",
+    "bank_sheet_open",
+    "boost_activate",
+    "boss_pass_unlock",
+    "business_acquired",
+    "business_upgrade",
+    "button_disabled",
+    "car_acquired",
+    "car_wash_complete",
+    "car_wash_swipe",
+    "cash_big_win",
+    "cash_collect",
+    "cash_tick_small",
+    "combo_peak",
+    "crisis_choice_bad",
+    "crisis_choice_costly",
+    "crisis_choice_good",
+    "crisis_countdown_tick",
+    "crisis_warning",
+    "daily_chest_open",
+    "diamond_pack_unlock",
+    "feature_tip_dismiss",
+    "feature_tip_reveal",
+    "grill_sizzle",
+    "laundry_fold",
+    "laundry_spin",
+    "level_up",
+    "loan_approved",
+    "loan_slot_ready",
+    "modal_close",
+    "modal_open",
+    "moving_drop",
+    "moving_lift",
+    "opportunity_start",
+    "order_serve",
+    "ore_crack_hard",
+    "ore_crack_soft",
+    "ore_drop_funnel",
+    "ore_spawn",
+    "ore_surge_burst",
+    "package_drop",
+    "package_pickup",
+    "parking_complete",
+    "parking_tick",
+    "purchase_success",
+    "refinery_cash_burst",
+    "rep_gain",
+    "repair_complete",
+    "repair_cube_pick",
+    "repair_cube_snap",
+    "reward_claim",
+    "reward_collect_big",
+    "room_clean",
+    "route_complete",
+    "settings_toggle",
+    "shelf_complete",
+    "shelf_item_open",
+    "shelf_pick",
+    "shelf_place",
+    "shop_open",
+    "status_wheel_prize",
+    "status_wheel_spin",
+    "status_wheel_tick",
+    "storage_list",
+    "storage_sort",
+    "ui_tab_switch",
+    "ui_tap",
+    "vending_drop",
+    "vending_pack",
+    "vip_pass_unlock",
+    "wipe_swish"
+  ]
+}
